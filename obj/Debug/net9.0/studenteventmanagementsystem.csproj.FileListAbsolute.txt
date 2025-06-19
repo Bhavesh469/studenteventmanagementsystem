@@ -163,3 +163,4 @@ D:\iqra semetsar\5TH semsetar\web engineering\web lab\html5\studenteventmanageme
 D:\iqra semetsar\5TH semsetar\web engineering\web lab\html5\studenteventmanagementsystem\obj\Debug\net9.0\studenteventmanagementsystem.pdb
 D:\iqra semetsar\5TH semsetar\web engineering\web lab\html5\studenteventmanagementsystem\obj\Debug\net9.0\studenteventmanagementsystem.genruntimeconfig.cache
 D:\iqra semetsar\5TH semsetar\web engineering\web lab\html5\studenteventmanagementsystem\obj\Debug\net9.0\ref\studenteventmanagementsystem.dll
+D:\iqra semetsar\5TH semsetar\web engineering\web lab\html5\studenteventmanagementsystem\obj\Debug\net9.0\studenteventmanagementsystem.sourcelink.json
